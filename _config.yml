@@ -6,13 +6,13 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.4191630833993507
-  lightness: 0.5385924258969504
-  rhythmicContrast: 0.01567384904437985
-  saturation: 0.40986143297035416
+  brandStrength: 0.703547
+  lightness: 0.538592
+  rhythmicContrast: 0.015673
+  saturation: 0.409861
 cta: {}
-layout_spectrum: 0.7798135354969643
+layout_spectrum: 0.727195
 name: Deborah Carr Makeup Artist
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.200168
+typography_spectrum: 0.127533

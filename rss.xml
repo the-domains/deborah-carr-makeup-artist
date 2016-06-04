@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Deborah Carr Makeup Artist]]></title>
         <description><![CDATA[Deborah Carr Makeup Artist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://deborahcarrmakeup.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 16:00:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 04 Jun 2016 16:28:23 GMT</lastBuildDate>
+        <atom:link href="http://deborahcarrmakeup.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Doing what I love!]]></title>
+            <description><![CDATA[<article><h1>Doing what I love!</h1><p>Behind the scenes...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66fa2f41-92de-42b6-839e-6bb396a18e4a.jpg"></article>]]></description>
+            <link>http://deborahcarrmakeup.com/doing-what-i-love/index.html</link>
+            <guid isPermaLink="false">c49573d2-c45f-48b8-9268-f39c0e9f4656</guid>
+            <pubDate>Sat, 04 Jun 2016 16:28:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6fadc95-bea2-460d-a03a-15155e2cd178.jpg">]]></description>
-            <link>undefinedeeae0293-5e7e-4c2d-ae97-dac9ce2d0d83/index.html</link>
+            <link>http://deborahcarrmakeup.com/eeae0293-5e7e-4c2d-ae97-dac9ce2d0d83/index.html</link>
             <guid isPermaLink="false">eeae0293-5e7e-4c2d-ae97-dac9ce2d0d83</guid>
             <pubDate>Mon, 18 Apr 2016 16:00:29 GMT</pubDate>
         </item>
